@@ -4,3 +4,8 @@ body{
     width: 100vh;
     background-repeat: no-repeat;
 }
+
+.teste-1{
+    display: flex;
+    justify-content: center;
+}
