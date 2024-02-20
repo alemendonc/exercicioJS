@@ -8,4 +8,5 @@ body{
 .teste-1{
     display: flex;
     justify-content: center;
+    justify-content: space-around;
 }
