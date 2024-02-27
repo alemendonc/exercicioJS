@@ -10,3 +10,9 @@ function mudarCorFundo(){
     document.querySelector("#p1").style.background="white"
 
 }
+
+function alterarTexto(){
+    textoForm= document.querySelector("#textinput").value
+
+     document.querySelector("#texto2").innerHTML=textoForm
+}
