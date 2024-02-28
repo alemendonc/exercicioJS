@@ -16,9 +16,4 @@ function alterarTexto(){
 
      document.querySelector("#texto2").innerHTML=textoForm
 }
-{ var readlineSync = require("readline-sync")
-var numero1 = Number (readlineSync.question("digite um numero: "))
-var numero2 = Number (readlineSync.question("digite um numero: "))
-console.log("a soma entre ${numero1} e [numero2} é igual a ${numero1 = numero2}")
-}
 
